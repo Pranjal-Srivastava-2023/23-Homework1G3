@@ -10,5 +10,5 @@ print(result)
     # Here x / y is calculated when y is not equal to 0 (i.e., when division is possible).
    # y != 0 : If y is not equal to 0, it returns the result of x / y, which is the division result. (using conditional statement)
    #  If y is equal to 0, it returns "ERROR" to indicate a division by zero error.
-
+ 
 
